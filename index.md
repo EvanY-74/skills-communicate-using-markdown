@@ -6,3 +6,5 @@
 ```
 print('Hello World!')
 ```
+- [x] Task 1
+- [ ] Task 2
